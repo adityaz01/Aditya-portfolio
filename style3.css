@@ -752,13 +752,12 @@ section .title::after {
     width: 30px;
     height: 30px;
     border-radius: 50%;
-    background-color: #2d238a;
     text-align: center;
     transition: 0.6s;
     box-shadow: 0 5px 4px rgba(0, 0, 0, 0.5);
 }
 
-.social-menu ul li a:hover {
+/*.social-menu ul li a:hover {
     transform: translate(0, -10px);
 }
 
@@ -792,7 +791,7 @@ section .title::after {
 
 .fa-solid {
     color: #fff;
-}
+} */
 
 /*  Footer  */
 
